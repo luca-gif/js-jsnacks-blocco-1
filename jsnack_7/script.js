@@ -11,6 +11,6 @@ const limit = 1000;
 
 while (num < limit) {
     console.log(num);
-    num = num * 2;
+    num *= 2;
     num > limit;
 }
